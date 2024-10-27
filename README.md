@@ -47,7 +47,7 @@
     <a href="https://www.linkedin.com/in/mohamad-ammis" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="esd67618@gmail.com">
+  <a href="mailto:esd67618@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 <!--   </a>
         <a href="https://mostaql.com/u/ammarageeza/portfolio">
